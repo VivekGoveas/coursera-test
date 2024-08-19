@@ -1,1 +1,30 @@
-
+*{
+    font-family: sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.main>h1{
+    text-align: center;
+}
+.sec1{
+    display: inline-block;
+    width: 30%;
+    border: 5px;
+    background-color:aqua;
+}
+.sec2{
+    display: inline-block;
+    width: 30%;
+    margin: auto;
+    border: 5px;
+    background-color:aqua;
+}
+.sec3{
+    display: inline-block;
+    width: 30%;
+    margin: auto;
+    border: 5px;
+    background-color:aqua;
+}
